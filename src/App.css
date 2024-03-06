@@ -1,0 +1,25 @@
+.pop{
+    text-align: center;
+}
+.card{
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;;
+    border-radius: 20px;
+    width: 300px;
+    margin-left: 520px;
+}
+
+.input-field{
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;;
+    border: 0px; 
+    font-size: 20px;
+}
+
+.btn{
+    padding: 8px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;;
+    border: 0px;
+    cursor: pointer; 
+}
